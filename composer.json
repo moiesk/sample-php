@@ -3,7 +3,8 @@
     "description": "Sample PHP application for App Platform",
     "type": "project",
     "require": {
-        "alrik11es/cowsayphp": "^1.2"
+        "alrik11es/cowsayphp": "^1.2",
+        "monolog/monolog": "^2.2"
     },
     "authors": [
         {
